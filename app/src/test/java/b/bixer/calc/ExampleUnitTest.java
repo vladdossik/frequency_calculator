@@ -1,4 +1,4 @@
-package b.bixer.calculator;
+package b.bixer.calc;
 
 import org.junit.Test;
 

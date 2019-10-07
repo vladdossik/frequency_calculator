@@ -13,14 +13,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="#0000FF"
-        android:textSize="45sp" />
+        android:textSize="50sp" />
 
     <TextView
         android:id="@+id/Formula"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="0.0"
-        android:textSize="45sp"/>
+        android:textSize="50sp"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -51,7 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Гц/сек" />
+            android:text="Гц/мин" />
 
         <RadioButton
             android:id="@+id/Okt"
@@ -74,7 +74,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-         />
+        />
 
     <EditText
         android:id="@+id/F2"
@@ -90,7 +90,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-         />
+        />
 
     <Button
         android:id="@+id/button"
